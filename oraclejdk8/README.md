@@ -12,7 +12,7 @@ RUN apt-get update \
    && apt-get install -y wget \
    && rm -rf /var/lib/apt/lists/*
 
-# JAVA Env
+# Java Env
 ENV JAVA_HOME /usr/local/java
 ENV PATH $JAVA_HOME/bin:$PATH
 RUN mkdir -p "$JAVA_HOME"
