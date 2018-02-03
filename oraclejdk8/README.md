@@ -3,3 +3,7 @@ This is totally quick and dirty! I accepted the license agreement and downloaded
 ```bash
 COPY jdk-8u161-linux-x64.tar.gz /usr/local/java
 ```
+
+See 
+* https://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/#
+* https://stackoverflow.com/questions/10268583/downloading-java-jdk-on-linux-via-wget-is-shown-license-page-instead
