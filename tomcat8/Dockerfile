@@ -1,4 +1,4 @@
-FROM jdk8:latest
+FROM oraclejdk8:latest
 
 ARG TOMCAT_MAJOR=8
 ARG TOMCAT_MINOR=0
